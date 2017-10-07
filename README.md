@@ -1,2 +1,4 @@
 # kcanotify-server
-data/update server for kcanotify
+http://swaytwig.com/kcanotify/
+
+Special thanks to @WolfgangKurz
